@@ -3,7 +3,6 @@ Hi! I am Habibur Rahman
 Front end Developer
 
 <img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />
-
 # 💫 About Me:
 Skills: JavaScript / REACT / HTML / CSS / Tailwind / Firebase / Node.JS / Express.JS / MongoDB / JWT<br>I’m currently working on my own projects and with my team<br>I’m currently learning JavaScript | Node.JS | Express.JS | Next.js<br>Ask me about Web Development<br><br>
 
@@ -19,7 +18,7 @@ Skills: JavaScript / REACT / HTML / CSS / Tailwind / Firebase / Node.JS / Expres
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=netmasternr&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=netmasternr&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=netmasternr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
