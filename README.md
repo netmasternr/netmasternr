@@ -1,7 +1,10 @@
-# 💫 About Me:
-I’m currently working on my own projects and with my team<br>Ask me about Web Development
+Hi! I am Habibur Rahman
+Front end Developer
 
 <img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />
+
+# 💫 About Me:
+I’m currently working on my own projects and with my team<br>Ask me about Web Development
 
 
 ## 🌐 Socials:
