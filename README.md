@@ -1,10 +1,13 @@
-Hi, I'm Habibur Rahman.
+gtHi, I'm Habibur Rahman.
 <br>
 Front-End Developer
 
 <img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />
+
 # 💫 About Me:
-Skills: JavaScript / REACT / HTML / CSS / Tailwind / Firebase / Node.JS / Express.JS / MongoDB / JWT<br>I’m currently working on my own projects and with my team<br>I’m currently learning JavaScript | Node.JS | Express.JS | Next.js<br>Ask me about Web Development<br><br>
+I’m currently working on my own projects and with my team<br>
+I’m currently learning JavaScript | Node.JS | Express.JS | Next.js<br>
+Ask me about Web Development
 
 
 ## 🌐 Socials:
