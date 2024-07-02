@@ -1,4 +1,4 @@
-gtHi, I'm Habibur Rahman.
+Hi, I'm Habibur Rahman.
 <br>
 Front-End Developer
 
