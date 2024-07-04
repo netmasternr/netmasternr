@@ -1,6 +1,6 @@
-Hi, I'm Habibur Rahman.
+Hi,
 <br>
-Front-End Developer
+I'm a Front-End Developer
 
 <img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />
 
