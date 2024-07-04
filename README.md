@@ -1,6 +1,6 @@
-Hi,
+I'm Habibur Rahman,
 <br>
-I'm a Front-End Developer
+A Front-End Developer specializing in creating engaging user interfaces with a focus on usability and performance.
 
 <img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />
 
