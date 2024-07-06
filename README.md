@@ -2,7 +2,7 @@ I'm Habibur Rahman,
 <br>
 A Front-End Developer specializing in creating engaging user interfaces with a focus on usability and performance.
 
-[<img src="https://i.ibb.co/mTSvJ0J/White-Blue-and-Green-Simple-Cross-Illustration-Health-Facebook-Cover.jpg" alt="" />](https://i.ibb.co/X7JdbcG/photo-2024-07-07-00-18-15.jpg)
+[<img src="https://i.ibb.co/X7JdbcG/photo-2024-07-07-00-18-15.jpg" alt="" />](https://i.ibb.co/X7JdbcG/photo-2024-07-07-00-18-15.jpg)
 
 # 💫 About Me:
 I’m currently working on my own projects and with my team<br>
